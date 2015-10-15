@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="GamePanelView">
+        <attr name="numberColumns" format="integer" />
+    </declare-styleable>
+</resources>
