@@ -5,4 +5,4 @@ Demo For Game 2048 using Android
 2. OveryLay Frameout to support the animation
 3. Satndard Animtaion Library to apply the animation
 
-<img src="http://imgur.com/4zfhK6S"/>
+<img src="http://i.imgur.com/4zfhK6S.png?1">
