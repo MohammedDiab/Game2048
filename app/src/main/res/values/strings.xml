@@ -7,6 +7,14 @@
     <string name="number_2048">2048</string>
     <string name="score">score</string>
     <string name="best_score">best</string>
+    <string name="restart">restart</string>
+    <string name="you_lost_message">Game Over ! Do you want to try again ?</string>
+    <string name="restart_sure">Are you sure to restart the game?</string>
+    <string name="win_message">Yaaaaaay !!! You Won, do you want to continue playing or start another game? </string>
+    <string name="exit_message">Are you sure to exit the game? </string>
+    <string name="continue_message">continue</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
 
 
 </resources>
